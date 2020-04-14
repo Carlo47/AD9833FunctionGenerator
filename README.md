@@ -6,3 +6,5 @@ Output frequency and waveform are set on AD9833.
 Output amplitude is controlled by means of the digital potentiometer MCP41010
 which controls the OPAMP AD8051 in 255 steps.
 AD9833 and MCP41010 have SPI interface.
+
+The folder AD9833FunctionGenerator contains the full PlatformIO project
