@@ -12,7 +12,9 @@ AD9833 and MCP41010 have SPI interface.
 ## Screens
 #### Initial Screen
 Settings of both channels displayed.
-Channel 0 selected, waveform is Sine, amplitude 1501mv/099, frequency 415.3Hz
+- Channel 0 selected, waveform is Sine, amplitude 1501mV/099, frequency 415.3Hz
+- Channel 1 waveform is Triangle, amplitude 1000mV/065, frequency 554.4Hz
+
 ![Screen0](01_Chn0_active.jpg)
 
 #### Channel 0
